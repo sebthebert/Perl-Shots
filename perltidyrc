@@ -1,0 +1,9 @@
+-i=4    # indentation de 4
+-ci=4   # indentation de continuation de 4
+-bl     # { et } alignés
+
+-cti=1  #
+
+-pt=2   # pas d'espace pour les parenthèses
+-bt=2   # ni pour les accolades
+-sbt=2  # ni pour les crochets
