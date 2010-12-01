@@ -1,8 +1,0 @@
-Benchmark: running join, multi_concat, one_concat for at least 3 CPU seconds...
-      join:  3 wallclock secs ( 3.19 usr +  0.00 sys =  3.19 CPU) @ 3507091.22/s (n=11187621)
-multi_concat:  2 wallclock secs ( 3.26 usr +  0.00 sys =  3.26 CPU) @ 3217298.16/s (n=10488392)
-one_concat:  3 wallclock secs ( 3.02 usr +  0.00 sys =  3.02 CPU) @ 15659986.09/s (n=47293158)
-                   Rate multi_concat         join   one_concat
-multi_concat  3217298/s           --          -8%         -79%
-join          3507091/s           9%           --         -78%
-one_concat   15659986/s         387%         347%           --
