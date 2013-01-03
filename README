@@ -1,4 +1,4 @@
-Perl Benchmarks & Samples
+Perl Benchmarks, Templates & Samples
 
 perlcritic -1 -p perlcriticrc <perl_files>
 perltidy -b --profile=perltidyrc <perl_files>
